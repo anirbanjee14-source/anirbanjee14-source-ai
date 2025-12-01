@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Dorak Vision - AI Image Generator",
+  "description": "A web-based AI image generation platform to generate high-quality images from text prompts using the Gemini API, with a clean, professional black-and-white aesthetic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
